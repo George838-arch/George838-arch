@@ -36,12 +36,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=George838-arch&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=George838-arch&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=George838-arch&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6&title=Commits,Stars,Repositories,Followers,PullRequest,Issue" />
+  <img src="https://github-profile-trophy.vercel.app/?username=George838-arch&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/George838-arch/George838-arch/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -73,3 +73,8 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=George838-arch&color=02569B&style=flat-square&label=Profile+Views" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=footer" />
