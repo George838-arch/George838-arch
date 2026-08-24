@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm George Medhat</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=180&section=header&text=George%20Medhat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
 <h3 align="center">Flutter Developer | CS Student | Mobile App Builder</h3>
 
 <p align="center">
@@ -45,6 +46,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ### 🐍 Contribution Graph
 
 <p align="center">
@@ -63,3 +72,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=02569B&style=flat-square&label=Profile+Views" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=footer" />
