@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,androidstudio" />
 </p>
 
 ---
@@ -25,7 +25,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Provider-40C4FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BLoC-00B894?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge" />
@@ -42,14 +41,6 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=George838-arch&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=George838-arch&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
